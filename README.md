@@ -7,5 +7,5 @@ Links:
 
 Samples:
 
-- [http](./http/): demonstrate using planner to orchestrate the `HTTP`` native functions (semantic-kernel built-in) and the `ExplainCode` semantic functions.
+- [http](./http/): demonstrate using planner to orchestrate the `HTTP` native functions (semantic-kernel built-in) and the `ExplainCode` semantic functions.
 - [open-api](./open-api/): demonstrate the OpenAPI native functions (semantic-kernel built-in).
